@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+}
+.header {
+  padding: 30px;
+  text-align: center;
+  background: #33ccff;
+  background: linear-gradient(to right, #33ccff 0%, #ff99cc 100%);
+  color: white;
+  font-size: 30px;
+}
+table  {background-color: #33ccff;
+    border: black;
+    border-style: solid;
+    text-align: center;
+    margin: auto;}
+td,tr {Color: Blue;
+    Font-weight: bold;}
